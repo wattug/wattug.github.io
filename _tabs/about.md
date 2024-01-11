@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<p style="text-align:justify"> Hello, I'm Prya Arif Rahman, a fresh graduate from Geological Engineering, Faculty of Engineering, Gadjah Mada University. I'm passionate about geology, machine learning, geographic information systems, and satellite imagery. I dedicate this web to be a portfolio of projects that have been and will be done. Please feel free to contact me via email in the sidebar below. </p>
