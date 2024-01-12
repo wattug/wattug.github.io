@@ -6,15 +6,16 @@ tags: [mineral mapping, pca, k-means clustering, gis]     # TAG names should alw
 img_path: /assets/img/posts/2022-12-01-Mineral-Mapping
 ---
 
-# Latar Belakang
+## Latar Belakang
 Proyek ini merupakan soal UAS Geokimia Eksplorasi, di mana diberikan 2 dataset: [Soil Sample Data, Stream Sediment Data]. Perlu diketahui bahwa dalam eksplorasi Cu-Au, Stream Sediment Sampling (SSS) dilakukan terlebih dahulu, baru kemudian Soil Sampling (SS) akan dilakukan pada area yang lebih berpotensi yang diketahui dari SSS. Ujian ini memberikan 2 tugas utama: Lakukan klasterisasi data (minimal 3 klaster), Buat Peta Anomali Tiap unsur.
 
-# Metode
+## Metode
 Klasterisasi akan menggunakan pendekatan principal component analysis (PCA) dan k-means clustering (KMC)
 sedangkan peta anomali akan menggunakan aplikasi surfer untuk menginterpolasi data.
 
-# Output
-## A. Deskripsi Data
+## Output
+### 1. Klasterisasi
+#### A. Deskripsi Data
 
 ```python
 # import library
@@ -136,7 +137,7 @@ plt.show()
 ![Heatmap Soil Sampling](output_10_0.png)
 _Heatmap Soil Sampling._
 
-## B. Principal Component Analysis
+#### B. Principal Component Analysis
 
 Pada proses ini, akan dilakukan reduksi dimensi, sehingga hanya terdapat beberapa parameter yang memiliki explained variance >70%. Dalam hal ini, data SSS membutuhkan 4 principal component (PC), sedangkan data SS membutuhkan 3 PC saja.
 
@@ -291,11 +292,11 @@ _Screeplot PC Soil Sampling._
       -0.39361306  0.01902003]]
 
 
-## C. K-Means Clustering
+#### C. K-Means Clustering
 Data akan dibagi menjadi beberapa klaster (minimal 3) menggunakan algoritma KMC  
 Berdasarkan nilai silhouette score terbesar, data SSS memiliki jumlah klaster ideal 4, sedangkan data SS sejumlah 5.
 
-### 1. Memeriksa Jumlah Klaster ideal
+##### 1. Memeriksa Jumlah Klaster ideal
 
 ```python
 from sklearn.cluster import KMeans
@@ -347,7 +348,7 @@ _Screeplot Silhouette Score Stream Sediment Sampling._
 _Screeplot Silhouette Score Soil Sampling._
 
 
-### 2. K-Means Clustering
+##### 2. K-Means Clustering
 
 
 ```python
@@ -507,8 +508,8 @@ Dari plot stream sediment sampling, dapat diketahui bahwa data terbagi menjadi 4
 
 Pada plot soil sampling, dapat diketahui klaster 0 memiliki 2 arah trend, yakni yang positif dengan unsur Cu-Ag-Zn dan Au-Sb-Pb. sedangkan klaster lainnya positif dengan unsur Au-Sb-Pb.
 
-## 2. Peta Anomali
-### A. Peta Anomali Data Stream Sediment Sampling
+### 2. Peta Anomali
+#### A. Peta Anomali Data Stream Sediment Sampling
 
 ![Unsur Au](AuSSS.png)
 _Peta Anomali Au Stream Sedimen_
@@ -525,7 +526,7 @@ _Peta Anomali Sb Stream Sedimen Sampling_
 ![Unsur Zn](ZnSSS.png)
 _Peta Anomali Zn Stream Sedimen Sampling_
 
-### B. Peta Anomali Data Soil Sampling
+#### B. Peta Anomali Data Soil Sampling
 
 ![Unsur Au](AuSS.png)
 _Peta Anomali Au Soil Sampling_
