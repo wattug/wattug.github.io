@@ -1,7 +1,7 @@
 ---
 title: Application of Computational Geoscience for Geochemical Characterization of Subduction Zone Volcanic Rocks
 date: 2023-11-30 23:21:00 +0700
-categories: [Volcanic Rocks, Geochemistry]
+categories: [Geology, Volcanic Rocks]
 tags: [pca, k-means clustering, gaussian mixture model]     # TAG names should always be lowercase
 img_path: /assets/img/posts/2023-11-30-Final-Project
 ---
@@ -18,12 +18,12 @@ Tugas akhir ini berfokus pada karakterisasi data geokimia di tiga busur kepulaua
    - Spidergram REE [(Sun and McDonough, 1989)](https://doi.org/10.1144/GSL.SP.1989.042.01.19)
    - Spidergram Trace Element [(Pearce, 1983)](https://www.researchgate.net/publication/247434731_Role_of_the_sub-continental_lithosphere_in_magma_genesis_at_active_continental_margin)
 2. Analisis Komputasi Geosains
-   -  Principal Component Analysis (PCA)
+   -  _Principal Component Analysis (PCA)
    -  K-Means Clustering (KMC)
    -  Gaussian Mixing Model (GMM)  
 
 ## Data
-Data yang digunakan merupakan data yang berasal dari database GeoRoc oleh [Digis Team](https://georoc.mpch-mainz.gwdg.de/georoc/). Pada database didapatkan tiga dokumen, yakni “Luzon Arc”, “Sulawesi Arc”, dan “Halmahera Arc” yang berasal dari kategori “Convergent Margin”. Ketiga dokumen ini berisi total 2987 sampel data geokimia yang terdiri dari batuan vulkanik, beku, sedimen, dan metamorf yang tersebar sepanjang area Sulawesi, Halmahera, Filipina, dan Kalimantan. Ketiga file memiliki informasi asal data, unsur mayor, unsur jejak, dan isotop dari setiap sampel. Dataset ini nantinya akan disaring sehingga dapat diketahui data yang dapat digunakan pada analisis berikutnya.
+Data yang digunakan merupakan data yang berasal dari _database_ GeoRoc oleh [Digis Team](https://georoc.mpch-mainz.gwdg.de/georoc/). Pada database didapatkan tiga dokumen, yakni “Luzon Arc”, “Sulawesi Arc”, dan “Halmahera Arc” yang berasal dari kategori “Convergent Margin”. Ketiga dokumen ini berisi total 2987 sampel data geokimia yang terdiri dari batuan vulkanik, beku, sedimen, dan metamorf yang tersebar sepanjang area Sulawesi, Halmahera, Filipina, dan Kalimantan. Ketiga file memiliki informasi asal data, unsur mayor, unsur jejak, dan isotop dari setiap sampel. Dataset ini nantinya akan disaring sehingga dapat diketahui data yang dapat digunakan pada analisis berikutnya.  
 Data akan difilter sehingga hanya berisi parameter yang digunakan. proses ini menggunakan python library: pandas. Dataset ini yang kemudian akan digunakan untuk penelitian.
 
 ## Output
@@ -54,23 +54,23 @@ _Diagram spider unsur jejak dan REE daerah penelitian._
 
 ### Komputasi Geosains
 #### Principal Component Analysis
-- Unsur Mayor
+##### Unsur Mayor
 
 ![PCA Unsur Mayor](major_pca.png)
 _Biplot dari principal component 1 dan principal component 2 pada unsur mayor daerah penelitian. dihadirkan pula vector loading dari variabel awal._
 
-- Unsur Jejak
+##### Unsur Jejak
 
 ![PCA Unsur Jejak](trace_pca.png)
 _Biplot dari principal component 1, principal component 2, dan principal component 3 pada unsur jejak daerah penelitian. dihadirkan pula vector loading dari variabel awal._
 
 #### Analisis Klaster
-- Unsur Mayor
+##### Unsur Mayor
 
 ![KMC dan GMM Unsur Mayor](major_kmc_gmm.png)
 _Biplot dari analisis k-means clustering (atas) dan gaussian mixture model (bawah)._
 
-- Unsur Jejak
+##### Unsur Jejak
 
 ![KMC Unsur Jejak](trace_kmc.png)
 _Biplot k-means clustering pada rasio unsur jejak._
