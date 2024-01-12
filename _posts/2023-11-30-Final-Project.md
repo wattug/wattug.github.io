@@ -7,7 +7,7 @@ img_path: /assets/img/posts/2023-11-30-Final-Project
 ---
 
 ## Pendahuluan
-Tugas akhir ini berfokus pada karakterisasi data geokimia di tiga busur kepulauan: Busur Sangihe, Busur Halmahera, dan Busur Busur Filipina Timur. Karakterisasi yang dilakukan menggunakan plot geokimia dan analisis komputasi"
+Tugas akhir ini berfokus pada karakterisasi data geokimia di tiga busur kepulauan: Busur Sangihe, Busur Halmahera, dan Busur Filipina Timur. Karakterisasi yang dilakukan menggunakan plot geokimia dan analisis komputasi"
 
 ## Metode
 1. Diagram Geokimia
