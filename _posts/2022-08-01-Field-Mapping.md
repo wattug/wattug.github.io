@@ -7,7 +7,7 @@ img_path: /assets/img/posts/2022-08-01-Field-Mapping
 ---
 
 ## Pendahuluan
-Lokasi penelitian berada di Desa Brenggong, Desa Plipir, Desa Kedunggubah, Desa Jelok, dan Desa Sidomulyo di Kecamatan Purworejo dan Desa Kaliharjo di Kecamatan Kaligesing, Kabupaten Purworejo, Provinsi Jawa Tengah. Luas daerah penelitian adalah 20 km2 yang secara fisografis masuk ke dalam Zona Pegunungan Serayu Selatan bagian timur.
+Lokasi penelitian berada di Desa Brenggong, Desa Plipir, Desa Kedunggubah, Desa Jelok, dan Desa Sidomulyo di Kecamatan Purworejo dan Desa Kaliharjo di Kecamatan Kaligesing, Kabupaten Purworejo, Provinsi Jawa Tengah. Luas daerah penelitian adalah 4 km x 5 km yang secara fisografis masuk ke dalam Zona Pegunungan Serayu Selatan bagian timur.
 
 ## Metode
 Metode penelitian diawali dengan desk study berupa analisis DEM (Digital Elevation Model) dan Peta Geologi Lembar Yogyakarta untuk menghasilkan peta tentatif. Kemudian dilanjutkan pengambilan data lapangan dan analisis laboratorium berupa analisis petrografi. Sampel untuk analisis petrografi terdiri dari 7 sayatan tipis.
