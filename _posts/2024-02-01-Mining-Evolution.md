@@ -311,11 +311,11 @@ _Percentage of each cluster in the year 2000_
 
 | Cluster| Area (%)|
 |--------| --------|
-| 1      | 27.66   |
-| 2      | 2.01    |
-| 3      | 10.69   |
-| 4      | 5.45    |
-| 5      | 54.54   |
+| 1      | 10.93   |
+| 2      | 0.92    |
+| 3      | 2.59    |
+| 4      | 37.40   |
+| 5      | 48.51   |
 
 ### - 2008-2010
 <iframe src="/assets/img/posts/2024-02-01-Mining-Evolution/split_image/2010/sample.html" title="Percentage of each cluster in the year 2010" height= "400" width="704"></iframe>
@@ -323,11 +323,11 @@ _Percentage of each cluster in the year 2010_
 
 | Cluster| Area (%)|
 |--------| --------|
-| 1      | 27.66   |
-| 2      | 2.01    |
-| 3      | 10.69   |
-| 4      | 5.45    |
-| 5      | 54.54   |
+| 1      | 4.24    |
+| 2      | 1.34    |
+| 3      | 51.48   |
+| 4      | 11.32   |
+| 5      | 31.98   |
 
 ### - 2019-2020
 <iframe src="/assets/img/posts/2024-02-01-Mining-Evolution/split_image/2020/sample.html" title="Percentage of each cluster in the year 2020" height= "400" width="704"></iframe>
@@ -342,4 +342,4 @@ _Percentage of each cluster in the year 2020_
 | 5      | 54.54   |
 
 ## Interpretation
-In general, on Landsat natural band images, it is evident that the tin mining area in the Simpangpesak sub-district is increasing each year. K-Means Clustering analysis indicates that in the year 2000, this open-pit mining area was in 2 clusters: Cluster 1 and 2, totaling 3.9% of the total area. In 2010, the analysis shows that the open-pit mining area is in 2 clusters: Cluster 1 and 2, totaling 5.58% of the total area. Meanwhile, in 2020, the analysis indicates that the open-pit mining area is in 3 clusters: Cluster 2, 3, and 4, totaling 18.15% of the total area.
+In general, on Landsat natural band images, it is evident that the tin mining area in the Simpangpesak sub-district is increasing each year. K-Means Clustering analysis indicates that in the year 2000, this open-pit mining area was in 2 clusters: Cluster 2 and 3, totaling 3.9% of the total area. In 2010, the analysis shows that the open-pit mining area is in 2 clusters: Cluster 1 and 2, totaling 5.58% of the total area. Meanwhile, in 2020, the analysis indicates that the open-pit mining area is in 3 clusters: Cluster 2, 3, and 4, totaling 18.15% of the total area.
