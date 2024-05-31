@@ -306,7 +306,7 @@ Map.add(sidebar);
 below is image slider from each years of analysis:
 
 ### - 1998-2000
-<iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=51a4d244-1e5c-11ef-9396-d93975fe8866" height="400" width="704"></iframe>
+<iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=51a4d244-1e5c-11ef-9396-d93975fe8866" height="465" width="100%"></iframe>
 _Percentage of each cluster in the year 2000_
 
 | Cluster| Area (%)|
@@ -318,7 +318,7 @@ _Percentage of each cluster in the year 2000_
 | 5      | 48.51   |
 
 ### - 2008-2010
-<iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5647da8c-1e5f-11ef-9396-d93975fe8866" height = "400" width = "704"></iframe>
+<iframe frameborder="0" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5647da8c-1e5f-11ef-9396-d93975fe8866" height = "465" width = "100%"></iframe>
 _Percentage of each cluster in the year 2010_
 
 | Cluster| Area (%)|
@@ -330,7 +330,7 @@ _Percentage of each cluster in the year 2010_
 | 5      | 31.98   |
 
 ### - 2019-2020
-<iframe frameborder="0" class="juxtapose" width="704" height="400" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=94697866-1e5f-11ef-9396-d93975fe8866"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="465" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=94697866-1e5f-11ef-9396-d93975fe8866"></iframe>
 _Percentage of each cluster in the year 2020_
 
 | Cluster| Area (%)|
