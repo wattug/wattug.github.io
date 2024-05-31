@@ -3,7 +3,7 @@ title: "Identification of Open Pit Mining Distribution over 20 years with Unsupe
 date: 2024-02-01 09:00:00 +0700
 categories: [Geology, Remote Sensing]
 tags: [gis, landsat, google earth engine]     # TAG names should always be lowercase
-img_path: /assets/img/posts/2024-02-01-Mining-Evolution
+media_subpath: /assets/img/posts/2024-02-01-Mining-Evolution
 ---
 
 ## Background

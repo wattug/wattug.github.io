@@ -3,7 +3,7 @@ title: Application of Computational Geoscience for Geochemical Characterization 
 date: 2023-11-30 23:21:00 +0700
 categories: [Geology, Volcanic Rocks]
 tags: [pca, k-means clustering, gaussian mixture model]     # TAG names should always be lowercase
-img_path: /assets/img/posts/2023-11-30-Final-Project
+media_subpath: /assets/img/posts/2023-11-30-Final-Project
 ---
 
 ## Pendahuluan

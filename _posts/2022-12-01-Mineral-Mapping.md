@@ -3,7 +3,7 @@ title: "Mineral Potential Mapping using Geochemistry Data"
 date: 2022-12-01 09:00:00 +0700
 categories: [Geology, Geochemistry]
 tags: [mineral mapping, pca, k-means clustering, gis]     # TAG names should always be lowercase
-img_path: /assets/img/posts/2022-12-01-Mineral-Mapping
+media_subpath: /assets/img/posts/2022-12-01-Mineral-Mapping
 ---
 
 ## Latar Belakang
