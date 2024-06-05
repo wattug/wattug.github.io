@@ -1,9 +1,11 @@
 ---
 title: "Identification of Open Pit Mining Distribution over 20 years with Unsupervised Learning"
+description: "Time Series Exploration with K-Means Clustering"
 date: 2024-02-01 09:00:00 +0700
 categories: [Geology, Remote Sensing]
-tags: [gis, landsat, google earth engine]     # TAG names should always be lowercase
+tags: [geographic information system, landsat, google earth engine, k-means clustering]     # TAG names should always be lowercase
 media_subpath: /assets/img/posts/2024-02-01-Mining-Evolution
+authors: [arif]
 ---
 
 ## Background

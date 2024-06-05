@@ -1,9 +1,11 @@
 ---
 title: "Mineral Potential Mapping using Geochemistry Data"
+description: "Exploration of Statistical Methods to Assess Stream Sediment and Soil Sampling Results"
 date: 2022-12-01 09:00:00 +0700
 categories: [Geology, Geochemistry]
-tags: [mineral mapping, pca, k-means clustering, gis]     # TAG names should always be lowercase
+tags: [mineral potential mapping, principal component analysis, k-means clustering, geographic information system]     # TAG names should always be lowercase
 media_subpath: /assets/img/posts/2022-12-01-Mineral-Mapping
+authors: [arif]
 ---
 
 ## Latar Belakang

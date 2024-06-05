@@ -1,9 +1,11 @@
 ---
 title: "Field Mapping in Purworejo, Central Java, Indonesia"
+description: "Mapping to Identify Geological Features"
 date: 2022-08-01 09:00:00 +0700
 categories: [Geology, Field Mapping]
-tags: [geology, geomorphology, stratigraphy, gis, mapping]     # TAG names should always be lowercase
+tags: [geomorphology, structual geology, petrographic, stratigraphy, paleontology, geographic information system, field mapping, digital elevation model]     # TAG names should always be lowercase
 media_subpath: /assets/img/posts/2022-08-01-Field-Mapping
+authors: [arif]
 ---
 
 ## Pendahuluan
