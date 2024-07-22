@@ -17,7 +17,7 @@ The objective of this project is to build a solution based on GIS technology tha
 Our project is built on the premise that if the conservation efforts by mining companies are effective, we should observe a notable improvement in animal biodiversity within these areas, alongside the expected increase in vegetation.
 
 ### Locations
-![Locations](lokasi.png)
+![Locations](lokasi.png){: .w-50}
 _Area of Interest._
 - Near Gold Mine that located in the southwest of the Batang Toru Ecosystem (BTE), Sumatra Utara. 
 - Mining company has designated surrounding conservation areas aimed at protecting and enhancing the local ecosystem.
