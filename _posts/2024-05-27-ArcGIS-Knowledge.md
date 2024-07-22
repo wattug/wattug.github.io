@@ -160,61 +160,58 @@ CLIENT,MULE,50
 
 
 ## Use Case "Uncovering the Fraud: Revealing the Identity Behind Suspicious Financial Activities"
-> Supporting Video will be soon Uploaded.
-{: .prompt-info }
-
-1. Identifying Entities with the Same Identity and Their Communities
+1. __Identifying Entities with the Same Identity and Their Communities__
 - Detect clients who use the same SSN, email, and phone number as another entity, indicating multiple identities. 
 - __Result__: It is known that some people have the same identity and there are many communities formed.
-
-
-2. Identify The Community with The Most Mules
+- {% include embed/youtube.html id='hP4Mr2trl4I?si=6Bp19OAIAP9rFgXc'%}
+2. __Identify The Community with The Most Mules__
 - By identifying the communities with the highest number of mules, we can uncover larger and more complex fraud networks. 
 - Mules are individuals used to move the proceeds of crime, and a large number of mules indicates a wider scale of operations.
 - __Result__: One of the largest communities consists of 12 people with the same identity. This community will be analyzed further.
-
-3. Analyzing Suspicious Patterns of Transactions in the Community
+- {% include embed/youtube.html id='6FlDsszaMl4?si=g5KGQb-vZSooKtXX'%}
+3. __Analyzing Suspicious Patterns of Transactions in the Community__
 - By analyzing transaction types, we can understand the transaction activity patterns of each member in the community.
 - A normal pattern of activity is characterized by members conducting various types of transactions with reasonable frequency.
 - __Result__:
   - Transactions showed a certain pattern. 
   - All members except Caleb Walter only made transfers. 
   - Caleb Walter makes different types of transactions: transfers, payments, and cash-ins.
-
-4. Identifying Transfer Recipients
+- {% include embed/youtube.html id='mMhMPUBBkXM?si=AR1FMcfmeuHUXw-O'%}
+4. __Identifying Transfer Recipients__
 - We track the transfer recipients of community members.
 - __Result__:
   - All community members except Caleb Walter made transfers to Eva Dillard.
   - Only Caleb Walter made a transfer to Camilla.
   - Knowing that many of the transfers ended up to Eva Dillard, we focus on Eva as the main perpetrator. 
   - Eva received funds from multiple sources, indicating that she was the center of the fraudulent activity.
-
-5. Checking Transaction Pattern to Eva Dillard
+- {% include embed/youtube.html id='u_cxOzsXKlY?si=fbhYCaLQj4npeAf0'%}
+5. __Checking Transaction Pattern to Eva Dillard__
 - We detected whether the accounts that made transfers to Eva Dillard were fraudulent by checking their first and last transactions. 
 - __Result__: It turned out that their first and last transactions were also to Eva Dillard. 
-
-6. Checking Transaction Pattern from Caleb Walter
+- {% include embed/youtube.html id='cBgihqejA3U?si=7f--ABAx_XEJaFQe'%}
+6. __Checking Transaction Pattern from Caleb Walter__
 - We detected transaction patterns from Caleb Walter who belongs to the community but has no direct interaction with Eva Dillard.
 - __Results__:
   - Caleb Walter's transaction pattern appears quite normal as there are multiple transactions to both clients and merchant.
   - There are no direct transactions to Eva Dillard.
-
-7. Looking for People Who Have Been "Scammed" by The Community
+- {% include embed/youtube.html id='cBgihqejA3U?si=gSjWK9dJZdzKvT0X'%}
+7. __Looking for People Who Have Been "Scammed" by The Community__
 - find out about people outside the community who have been "scammed" because they transferred to Eva Dillard.
 - __Result__: There were 39 people who transferred to Eva Dillard.
-
-8. Finding the Relationship between Caleb Walter and Eva Dillard
+- {% include embed/youtube.html id='1_JX7azbO9g?si=X2Or4m_nATRO4KkV'%}
+8. __Finding the Relationship between Caleb Walter and Eva Dillard__
 - We analyze the relationship between Caleb Walter and Eva Dillard.
 - __Result__:
   - It was found that Caleb Walter had the same email as two other individuals, Charlotte and Nevaeh, who both made deposits to Eva Dillard.
 Caleb Walter had a different transaction than the others, and the same email relationship with Charlotte and Nevaeh. Both of these individuals made deposits to Eva Dillard, showing the link between Caleb and Eva.
   - Although Caleb Walter made different types of transactions, his relationship with Charlotte and Nevaeh (who made deposits to Eva Dillard) suggests that Caleb may have played a connecting role in a larger network led by Eva.
-
-9. Suspecting Eva Dillard as the Main Fraud
+- {% include embed/youtube.html id='ANqKu9E2xoU?si=M8jjrpRDNY25JWV-'%}
+9. __Suspecting Eva Dillard as the Main Fraud__
 - By combining all the findings, we identified the main fraud.
 - __Result__:
   - Eva Dillard was revealed as the main fraudster or dealer in this network. 
   - The transaction patterns and relationships between community members point to Eva Dillard as the center of the fraudulent activities.
+- {% include embed/youtube.html id='HQYmVXQpXhM?si=EMj_Ijx6g8-Fr-Uw'%}
 
 ## Concluions
 With ArcGIS Knowledge, financial sectors are now better prepared for future fraud threats, ensuring that they can protect their customers and maintain the integrity of their financial systems.
