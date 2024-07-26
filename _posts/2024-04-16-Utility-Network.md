@@ -38,11 +38,11 @@ _Workflows._
 ### Managing Asset vs Asset Management
 Both of these sentences may appear similar, but in reality, they carry different meanings.
 
-| Managing Assets | Asset Management |
-|--------| --------|
+| Managing Assets                                                                            | Asset Management                                                     |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | Lifecycle activities and asset care - availability, realibility, dependability, and safety | The Purpose of your organization and what asset does it need and why |
-| Asset location, condition, life extension and/or interventions | Value, purpose and long term outcomes |
-| Asset databases, systems and performances | Risk and context e.g. markets / climate / regulation | 
+| Asset location, condition, life extension and/or interventions                             | Value, purpose and long term outcomes                                |
+| Asset databases, systems and performances                                                  | Risk and context e.g. markets / climate / regulation                 |
 
 ### Utility Network Itself
 Utility network is a specialized type of network model used in GIS to represent and analyze complex systems of interconnected utility infrastructure, such as water,electricity, and telecommunications networks. It provides a comprehensive framework for managing and visualizing the physical and logical relationships between network elements, such as pipes, cables, substations, and junctions.

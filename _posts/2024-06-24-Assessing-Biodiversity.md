@@ -26,15 +26,15 @@ _Area of Interest._
 - Remote sensing indices are crucial tools used in the analysis of satellite imagery to monitor and assess various environmental and ecological conditions.
 - The indices selected based on [Parisetal et al (2023) ](https://doi.org/10.3389/ffgc.2023.1020477) and  [Sunkur & Mauremootoo (2024)](https://doi.org/10.52562/injoes.2024.835) research. 
 
-| Indices| Formula |
-|--------| --------|
-| Normalized Burnt Ratio                               | NBR = (NIR - SWIR) / (NIR + SWIR)   |
-| Normalized Difference Vegetation Index               | NDVI = (NIR - Red) / (NIR + Red)    |
-| Red-edge Normalized Difference Vegetation Index      | RENDVI = (NIR - Red-edge) / (NIR + Red-edge)   |
-| Green Normalized Difference Vegetation Index         | GNDVI = (NIR - Green) / (NIR + Green)    |
-| Tasseled Cap Brightness                              | TCB = 0.3037 × Blue + 0.2793 × Green + 0.4743 × Red + 0.5585 × NIR + 0.5082 × SWIR1 + 0.1863 × SWIR2   |
-| Tasseled Cap Greenness                               | TCG = −0.2848 × Blue −0.2435 × Green −0.5436 × Red + 0.7243 × NIR + 0.0840 × SWIR1 −0.1800 × SWIR2   |
-| Tasseled Cap Wetness                                 | TCW = 0.1509 × Blue + 0.1973 × Green + 0.3279 × Red + 0.3403 × NIR −0.7117 × SWIR1 −0.4572 ×SWIR2   |
+| Indices                                         | Formula                                                                                              |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Normalized Burnt Ratio                          | NBR = (NIR - SWIR) / (NIR + SWIR)                                                                    |
+| Normalized Difference Vegetation Index          | NDVI = (NIR - Red) / (NIR + Red)                                                                     |
+| Red-edge Normalized Difference Vegetation Index | RENDVI = (NIR - Red-edge) / (NIR + Red-edge)                                                         |
+| Green Normalized Difference Vegetation Index    | GNDVI = (NIR - Green) / (NIR + Green)                                                                |
+| Tasseled Cap Brightness                         | TCB = 0.3037 × Blue + 0.2793 × Green + 0.4743 × Red + 0.5585 × NIR + 0.5082 × SWIR1 + 0.1863 × SWIR2 |
+| Tasseled Cap Greenness                          | TCG = −0.2848 × Blue −0.2435 × Green −0.5436 × Red + 0.7243 × NIR + 0.0840 × SWIR1 −0.1800 × SWIR2   |
+| Tasseled Cap Wetness                            | TCW = 0.1509 × Blue + 0.1973 × Green + 0.3279 × Red + 0.3403 × NIR −0.7117 × SWIR1 −0.4572 ×SWIR2    |
 
 ### Shannon's Entropy
 - It quantifies the uncertainty or randomness in a dataset. In the context of ecology, it is used to measure species diversity within a community. 

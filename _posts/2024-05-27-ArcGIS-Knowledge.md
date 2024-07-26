@@ -34,10 +34,10 @@ _Concept of Graph Database._
 
 ### Graph Database vs Relational Database
 
-|  | Graph Database| Relational Database |
-|------|--------|--------|
-| strength | Flexible Data Model, Scalability, High Performance for Highly Connected Graphs | Suitable for Structured Data Structures, High Data Integrity, Ease in Queries  |
-| weakness | Not Suitable for Simple Structured Data, Requires Deeper Understanding | Limited Scalability, Limitations in Data Model, Lack of Flexibility in Schema Changes |
+|          | Graph Database                                                                 | Relational Database                                                                   |
+| -------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| strength | Flexible Data Model, Scalability, High Performance for Highly Connected Graphs | Suitable for Structured Data Structures, High Data Integrity, Ease in Queries         |
+| weakness | Not Suitable for Simple Structured Data, Requires Deeper Understanding         | Limited Scalability, Limitations in Data Model, Lack of Flexibility in Schema Changes |
 
 ### ArcGIS Knowledge Core Vision in GIS Technology
 ArcGIS Knowledge aims to be a strong foundation in GIS technology, enabling users to make better decisions and create more innovative solutions in various geographic contexts.
