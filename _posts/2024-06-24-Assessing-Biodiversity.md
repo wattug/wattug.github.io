@@ -91,3 +91,6 @@ _Workflow._
 
 ## Conclusion
 Based on the results, the project successfully developed a GIS-based solution that effectively identifies and evaluates the impact of conservation efforts, also providing valuable insights for future planning and implementation.
+
+## Original Storymaps
+<iframe src="https://storymaps.arcgis.com/stories/101759ab202b4b509b24769818867c2d" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
