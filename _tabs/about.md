@@ -7,7 +7,7 @@ order: 4
 ---
 # Prya Arif Rahman
 
-**Contact Information**  
+## Contact Information  
 - **Email:** pryaarifrahman@gmail.com  
 - **Location:** Bantul, Indonesia  
 
@@ -30,16 +30,17 @@ order: 4
 - Evaluated and visualized geochemical models
 - Conducted geochemical sampling and preparation for igneous rocks at Belitung Island, Mt. Bromo, and Mt. Lamongan
 
-### Komunitas Olimpiade Jogja | Yogyakarta
-**Earth Science Tutor**  
-*09/2018 - Present*  
-- Assisted high school students in preparing for the National Science Olympiad in Earth Sciences
-
 ### Tim Olimpiade Ilmu Kebumian Indonesia | Yogyakarta
 **Teaching Assistant**  
 *12/2022 - 12/2023*  
 - Organized Earth Science events for the National Science Olympiad in Bogor
 - Assisted the Indonesian delegation in preparing for the International Earth Science Olympiad
+
+### Komunitas Olimpiade Jogja | Yogyakarta
+**Earth Science Tutor**  
+*09/2018 - Present*  
+- Assisted high school students in preparing for the National Science Olympiad in Earth Sciences
+
 
 ### Geophysical Exploration Laboratory | Yogyakarta
 **Geophysical Exploration and Geothermal Geology Assistant**  
@@ -79,7 +80,9 @@ order: 4
 ## Languages
 
 - English
+  - TOEFL ITP 570
 - Indonesian
+  - Native Speaker
 
 ---
 
