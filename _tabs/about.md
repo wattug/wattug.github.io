@@ -15,6 +15,11 @@ order: 4
 
 ## Experience
 
+### PT Antam Tbk. Unit Geomin | Tayan, Kalimantan Barat
+**Geologist**  
+*09/2024 - Present*  
+- Responsible for Exploration of Bauxite Laterites
+
 ### ESRI Indonesia | Jakarta
 **Solution Strategist (Partner)**  
 *03/2024 - 08/2024*  
